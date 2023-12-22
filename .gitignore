@@ -1,3 +1,5 @@
+# ignored folders
+.vscode
 # Prerequisites
 *.d
 
