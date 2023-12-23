@@ -1,3 +1,5 @@
+/* C program for Shortest Time Seek First implementation  */
+
 #include<math.h>
 #include<stdio.h>
 #include<stdlib.h>

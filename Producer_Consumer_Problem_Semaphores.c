@@ -1,4 +1,4 @@
-/* C program for Producer-Consumer Problem implementation  */
+/* C program for Producer-Consumer Problem Implementation  */
 
 #include<stdio.h>
 #include<stdlib.h>
